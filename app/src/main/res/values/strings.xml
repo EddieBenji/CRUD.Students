@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ABC con archivos de estudiantes</string>
+    <string name="lbl_student_name">Nombre del estudiante</string>
+    <string name="lbl_firstLastName">Primer apellido</string>
+    <string name="lbl_secondLastName">Segundo apellido</string>
+    <string name="lbl_birthday">Fecha de nacimiento</string>
+    <string name="lbl_major">Licenciatura</string>
+    <string name="btn_save">Guardar</string>
+    <string name="txt_matrix">Matrix</string>
+    <string name="txt_name">Name</string>
+    <string name="txt_firstLastName">First Last name</string>
+    <string name="txt_secondLastName">Second Last name</string>
+    <string name="txt_major">Major</string>
+    <string name="lbl_matrix">Matrícula</string>
+    <string name="lbl_update">Actualizar</string>
+    <string name="lbl_delete">Eliminar</string>
+    <string name="lbl_addStudent">Agregar estudiante</string>
+</resources>
